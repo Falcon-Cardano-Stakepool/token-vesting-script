@@ -1,5 +1,0 @@
-module DerivingViaStealing where
-
-via = ()
-stock = ()
-anyclass = ()

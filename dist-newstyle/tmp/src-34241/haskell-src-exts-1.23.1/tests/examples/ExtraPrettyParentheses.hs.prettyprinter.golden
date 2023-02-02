@@ -1,4 +1,0 @@
-data Q a = Q a a
-x * (-1) = negate x
-Just x <> Nothing = Just x
-f (-1 `Q` _) = ()

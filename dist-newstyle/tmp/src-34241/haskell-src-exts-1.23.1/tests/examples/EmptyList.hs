@@ -1,3 +1,0 @@
-module EmptyList where
-
-eAttrs = []

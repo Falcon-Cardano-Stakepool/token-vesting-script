@@ -1,7 +1,0 @@
-{-# LANGUAGE DataKinds, TypeOperators #-}
-
-module TypeListCons where
-
-type List1 a = a ': '[]
-type List2 a b = a ': '[]
-type List3 a b c = a ': b ': c ': '[]

@@ -1,2 +1,0 @@
-{-# LANGUAGE QuasiQuotes #-}
-[qq| abc |]

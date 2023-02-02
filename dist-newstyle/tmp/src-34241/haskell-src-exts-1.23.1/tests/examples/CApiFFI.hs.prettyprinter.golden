@@ -1,2 +1,0 @@
-{-# LANGUAGE CApiFFI #-}
-foo = capi

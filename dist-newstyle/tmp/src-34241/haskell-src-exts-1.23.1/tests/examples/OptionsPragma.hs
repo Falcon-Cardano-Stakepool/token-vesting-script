@@ -1,2 +1,0 @@
-{-# OPTIONS -fno-warn-orphans #-}
-

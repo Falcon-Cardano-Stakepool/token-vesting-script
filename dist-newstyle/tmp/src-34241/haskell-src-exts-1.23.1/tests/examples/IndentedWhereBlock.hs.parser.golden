@@ -1,3 +1,0 @@
-ParseFailed
-  (SrcLoc "tests/examples/IndentedWhereBlock.hs" 8 1)
-  "Parse error: virtual }"
